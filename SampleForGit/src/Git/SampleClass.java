@@ -6,11 +6,12 @@ public class SampleClass {
 		// TODO Auto-generated method stub
 		String a="Nagendra";
 		String b="Babu";
+		String c="Venkata";
 		System.out.println(a);
 		System.out.println(b);
 		System.out.println(a);
 		System.out.println(b);
-		
+		System.out.println(c);
 		
 	}
 }
